@@ -79,7 +79,7 @@ Some of the tools I have used to run this network are:
 * Zabbix, Monit, Nagios, Sensu.
 * NodeJS, Bash
 * PagerDuty
-* Puppet & Chef along with Ruby for scripting and templating.
+* Ansible, Puppet & Chef along with Ruby for scripting and templating.
 * Private Cloud, AWS and Rackspace Cloud Environments.
 * VOIP, Voice Telephony via IP, Global SIP routing
 * GNS3 routing virtualisation.
@@ -104,7 +104,7 @@ As a skilled tester part of my role included third line and onsite support inclu
 
 ## School / College
 #### Cardinal Newman School, Hove
-** 1990 - 1997**
+**1990 - 1997**
 
 Including:
 * Advanced GNVQ Business and Eurpean Studies
