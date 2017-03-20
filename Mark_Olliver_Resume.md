@@ -1,17 +1,20 @@
 # Mark Olliver
 
+
+![Skills Wordcloude](file:///home/molliver/GIT/resume/resume.png)
+
 ## Principal BigData DevOps Security Architect
 ####  KEAO Solutions Ltd
 **Mar 2016 - Present**
 
-I work with clients of all sizes primarily in the UK Government, Fintech and Adtech verticals advising on DevOps, Security, Kubernetes and BigData projects. Ensuring the correct solution is designed and processes are put in place for a successful project either in house within purpose build data centres or in the cloud. 
+I work with clients of all sizes primarily in the UK Government, Fintech and Adtech verticals advising on DevOps, Security, Kubernetes and BigData projects. Ensuring the correct solution is designed and processes are put in place for a successful project either in house within purpose build data centres or in the cloud. Part of this work includes help building a team of different specialists, including upskilling and training junior staff to ensure a cohesive Data Team. Depending on the project this includes roles from DevOps, Security, Data Engineers, Programmers, Business Analysts and Data Scientists.
 
 
 ## Senior Technical Architect
 #### UK Home Office
 **Sep 2015 - Present**
 
-Advising on BigData, DevOps and Security Architecture across the Border Force Estate.
+Advising on BigData, DevOps and Security Architecture and Best Practice across the Border Force Estate. Managing the workflow and releationships with external Big Data parties.
 (limited details due to security)
 
 
@@ -19,7 +22,7 @@ Advising on BigData, DevOps and Security Architecture across the Border Force Es
 #### Big Data Partnership (now part of Teradata) 
 **Jan 2015 - May 2016**
 
-Advising clients in multiple verticles from global finance directors to betting, shopping and secure government Big Data installations. 
+Advising clients in multiple verticals from global finance directors to betting, shopping and secure government Big Data installations. 
 
 Each consultation followed the following steps:
 * Discovery
@@ -34,6 +37,8 @@ Along with the typical DevOps tasks including:
 * Ansible, Puppet and Bash automation
 * ServerSpec and Rspec testing
 
+During the cunsultation stages, I would advise on the different Big Data Products along with there strengths, weaknesses, security benefits and if they are suited to one cloud provider AWS, Azure or Google Cloud better than another. My role also included scoping to build new Big Data competency centres with the organisations which help drive us further use of Big Data projects within there own estates.
+
 ##### Certifications:
 * Hortonworks Certified Hadoop 2 Developer
 * MapR Certified Hadoop Admin (MCHA)
@@ -44,9 +49,9 @@ Along with the typical DevOps tasks including:
 **Apr 2013 - Jan 2015**
 
 Leading DevOps, Data Science and Data in the growing RTA world.
-In this role I managed a team of different specialists including  Developers; Data Engineers; Data Analysts and Data Scientists. With them we built, maintained and run a fully scalable RTB product on top of a secure platform of servers. As a team we scaled the platform in just over a year from 4000 transactions a second to over 150,000 transactions per second; with each transaction analysing many different data points. This enabled it to create the best bid price for the advert and respond to the bid exchange within 95% of the time in under 10ms. 
-As a member of the leadership team, I ensured each member of my team felt vauled and were given support and skills to allow them to grow within the company. This was achived by forming a strong team bond with open knowledge sharing and an ethos of there never being a stupid question.
-During my time in post I evaluated the hardware and cloud offerings we wer using, this led us to migrate our ETL data environment over to using Google's Cloud Services making substantial use of Big Query. We found this increased our ETL throughput with many jobs that used to take 20-30 mins using a standard columnar based database now running in under 2 mins. It also allowed us due to speed and cost savings to substantially scale the amounts of data we held, allowing greater access to the data within the organisation and more transparent analytical results.
+In this role I managed a team of different specialists including Developers; Data Engineers; Data Analysts and Data Scientists. With them we built, maintained and run a fully scalable RTB product on top of a secure platform of servers. As a team we scaled the platform in just over a year from 4000 transactions a second to over 150,000 transactions per second; with each transaction analysing many different data points. This enabled it to create the best bid price for the advert and respond to the bid exchange within 95% of the time in under 10ms. 
+As a member of the leadership team, I ensured each member of my team felt valued and were given support and skills to allow them to grow within the company. This was achieved by forming a strong team bond with open knowledge sharing and an ethos of there never being a stupid question.
+During my time in post I evaluated the hardware and cloud offerings we were using, this led us to migrate our ETL data environment over to using Google's Cloud Services making substantial use of Big Query. We found this increased our ETL throughput with many jobs that used to take 20-30 mins using a standard columnar based database now running in under 2 mins. It also allowed us due to speed and cost savings to substantially scale the amounts of data we held, allowing greater access to the data within the organisation and more transparent analytical results.
 During the same period we re-engineered our production RTB environment to run over multiple Google Compute zones, which increased performance by nearly 300% and reduced relative cost around 50% allowing us to scale dynamically.
 
 The additional skills I have picked up whilst working here are:
@@ -62,10 +67,7 @@ Along with improving my general programming skills in many languages including R
 #### Thermeon Worldwide
 **Jan 2002 - Apr 2013**
 
-I was responsible for the day to day running and management of the lobal infrastructure and Car Rental systems. This included designing a highly avaliable colocation grade system with multiple levels of redundancy
-During the design phase I met with potential suppliers and hosting companies to secure the best dedicated hosting avaliable for our clients. Ensuring good global connectivity and sufficient bandwidth whilst keeping an eye on the cost model.
-
-The architecture included live replication of data from site A to site B, within virtual servers, therefore should it be needed we could relocate a customer live from one data centre to th other with only a few minutes of down time. The design and implementation allowed Thermeon to win a worldwide contract to supply our car rental software to all Hertz Licenses globally.
+I was responsible for the day to day running and management of the global infrastructure and Car Rental systems. This included designing a highly available co-location grade system with multiple levels of redundancy. During the design phase I met with potential suppliers and hosting companies to secure the best dedicated hosting available for our clients. Ensuring good global connectivity and sufficient bandwidth whilst keeping an eye on the cost model. The architecture included live replication of data from site A to site B, within virtual servers, therefore should it be needed we could relocate a customer live from one data centre to the other with only a few minutes of down time. The design and implementation allowed Thermeon to win a worldwide contract to supply our car rental software to all Hertz Licenses globally.
 
 Some of the tools I have used to run this network are:
 * BGP, OSPF, Dynamic Network routing Management
@@ -82,16 +84,16 @@ Some of the tools I have used to run this network are:
 * Ansible, Puppet & Chef along with Ruby for scripting and templating.
 * Private Cloud, AWS and Rackspace Cloud Environments.
 * VOIP, Voice Telephony via IP, Global SIP routing
-* GNS3 routing virtualisation.
-I also assistted in customers 1st, 2nd and 3rd line support as needed including on-site trips to customers globally including Ireland, Sweden and Australia, training and trouble shooting issues, with a specialty on data mining. As part of supporting customers I advised them on their internal networks; systems and in some cases act in the capacity of their IT Manager.
+* GNS3 routing visualisation.
+I also assisted in customers 1st, 2nd and 3rd line support as needed including on-site trips to customers globally including Ireland, Sweden and Australia, training and trouble shooting issues, with a speciality on data mining. As part of supporting customers I advised them on their internal networks; systems and in some cases act in the capacity of their IT Manager.
 
 
 ## Systems Tester / Systems Administrator
-#### Netmonitor / Kertrial Solutions Ltd 
-**Sep 2000 - Jan 2002**
+#### Netmonitor / Kestrial Solutions Ltd 
+**Seep 2000 - Jan 2002**
 
 After leaving University I started my career with Netmonitor; They developed software to manage and monitor network time pieces. My role initial was as a Software Tester, following strict testing guidelines, producing test plans to ensure good coverage. To ensure fair tests we often rebuilt servers and clients back to known states so that we could test the changes in the software. During this time I became the company systems administrator looking after the Window Server and Solaris estate along with the bespoke customer hardware that we managed.
-As a skilled tester part of my role included third line and onsite support including a trip to Mexico where I installed and upgraded the monitoring systems of Mexico Telecom on behalf of our client Symmetricom.
+As a skilled tester part of my role included third line and on-site support including a trip to Mexico where I installed and upgraded the monitoring systems of Mexico Telecom on behalf of our client Symmetricom.
 
 
 ---
@@ -107,6 +109,15 @@ As a skilled tester part of my role included third line and onsite support inclu
 **1990 - 1997**
 
 Including:
-* Advanced GNVQ Business and Eurpean Studies
+* Advanced GNVQ Business and European Studies
 * Double Science and Maths
-* English, Music and Languages.
+* English, Music and Basic Languages (French/German).
+
+
+---
+
+## Contact Details
+
+**Mark Olliver**
+Tel: +44 7870 808487
+Email: mark@keao.cloud
